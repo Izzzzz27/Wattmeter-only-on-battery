@@ -1,5 +1,5 @@
 # Wattmeter-only-on-battery
-Runs Battery usage wattmeter gnome extension only when the laptop on battery not charging.
+Runs Battery usage wattmeter gnome extension only when the laptop on battery and not charging.
 ## Installation
 ```
 sudo apt update
